@@ -7,10 +7,6 @@ output:
     self contained: no
     number_sections: yes
     theme: yeti
-  html_notebook:
-    self contained: no
-    number_sections: yes
-    theme: yeti
 subtitle: A brief demonstration of some machine learning modelling issues using NIDS wave 1 data
 ---
 
